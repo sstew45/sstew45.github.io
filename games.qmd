@@ -14,7 +14,7 @@ sdf
 
 ## blah blah
 
-1.  sup
+1.  sup man
 2.  dude
 
 ```{r}
@@ -23,7 +23,7 @@ mtcars |>
   ggplot(aes(x = mpg, y = cyl, color = vs)) +
   geom_point() +
   theme_bw() +
-  labs(title = "HEY!", subtitle = "DOES IT WORK?") 
+  labs(title = "HEY!", subtitle = "DOES IT WORK? I DUNNO") 
 ```
 
 Add something
