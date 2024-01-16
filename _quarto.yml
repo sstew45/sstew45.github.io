@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "sstew45.github.io"
+  title: "Data Drives Discovery"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - games.qmd
 
 format:

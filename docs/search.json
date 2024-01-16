@@ -2,16 +2,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sstew45.github.io",
+    "title": "Scott Stewart",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n2 + 2\n\n[1] 4"
+    "text": "B.S. in Mathematics from Northwestern Oklahoma State University (1999)\nM.S. in Statistics from Oklahoma State University (2002)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Scott Stewart",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n# biatch"
+    "text": "B.S. in Mathematics from Northwestern Oklahoma State University (1999)\nM.S. in Statistics from Oklahoma State University (2002)"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Scott Stewart",
+    "section": "Background",
+    "text": "Background\nI have been learning, using and teaching about statistics for more than two decades. I thoroughly enjoy my current role as a Biostatistician at the University of Arkansas for Medical Sciences (UAMS) in Little Rock, Arkansas. My areas of interest include:\n\nadvancing my software skills:\n\nR for data manipulation and analysis\nQuarto for communications and reproducible research\nGit for version control\n\nanalysis of text data\nanalysis of geospatial data\ndata visualization\nstatistics and data science education\n\nI enjoy time with family, outdoor activities with my dog Covy, cooking, and cheering for my favorite sports teams."
+  },
+  {
+    "objectID": "index.html#data-drives-discovery-blog",
+    "href": "index.html#data-drives-discovery-blog",
+    "title": "Scott Stewart",
+    "section": "Data Drives Discovery Blog",
+    "text": "Data Drives Discovery Blog\nWith my upcoming blog, my primary hope is to better organize my ideas and workflow. If others benefit from the content, then I would regard this as a successful endeavor.\nMost of the content at this site will be focused on R, Quarto, and specific data-related problems that interest me. My latest obsessions are related to geospatial data, text data analysis, space weather, and anthropology. My hope is that content related to these topics will be readable and enjoyable without being an expert."
+  },
+  {
+    "objectID": "index.html#thomas-lady-terriers-basketball-stats",
+    "href": "index.html#thomas-lady-terriers-basketball-stats",
+    "title": "Scott Stewart",
+    "section": "Thomas Lady Terriers Basketball Stats",
+    "text": "Thomas Lady Terriers Basketball Stats\nMy daughter plays high school basketball, and I enjoy keeping player and team statistics for her team. You can find out more at https::/sstew45.gihub.io/TLT/"
   },
   {
     "objectID": "games.html",

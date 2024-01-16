@@ -1,13 +1,52 @@
 ---
-title: "sstew45.github.io"
+title: "Scott Stewart"
+image: images/office_profile_pic_cropped.jpg
+toc: false
+about:
+  template: solana
+  image-shape: rectangle
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/sstew45
+    - icon: mail 
+      text: Email
+      href: mailto:sstew_ods@protonmail.com
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   B.S. in Mathematics from Northwestern Oklahoma State University (1999)
+-   M.S. in Statistics from Oklahoma State University (2002)
 
-```{r}
-1 + 1
+------------------------------------------------------------------------
 
-2 + 2
-```
+## Background
+
+I have been learning, using and teaching about statistics for more than two decades. I thoroughly enjoy my current role as a Biostatistician at the University of Arkansas for Medical Sciences (UAMS) in Little Rock, Arkansas. My areas of interest include:
+
+-   advancing my software skills:
+    -   R for data manipulation and analysis
+    -   Quarto for communications and reproducible research
+    -   Git for version control
+-   analysis of text data
+-   analysis of geospatial data
+-   data visualization
+-   statistics and data science education
+
+I enjoy time with family, outdoor activities with my dog Covy, cooking, and cheering for my favorite sports teams.
+
+------------------------------------------------------------------------
+
+## Data Drives Discovery Blog
+
+With my upcoming blog, my primary hope is to better organize my ideas and workflow. If others benefit from the content, then I would regard this as a successful endeavor.
+
+Most of the content at this site will be focused on R, Quarto, and specific data-related problems that interest me. My latest obsessions are related to geospatial data, text data analysis, space weather, and anthropology. My hope is that content related to these topics will be readable and enjoyable without being an expert.
+
+------------------------------------------------------------------------
+
+## Thomas Lady Terriers Basketball Stats
+
+My daughter plays high school basketball, and I enjoy keeping player and team statistics for her team. You can find out more at <https::/sstew45.gihub.io/TLT/>
+
